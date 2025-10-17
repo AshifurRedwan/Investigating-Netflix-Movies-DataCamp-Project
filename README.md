@@ -25,6 +25,6 @@ The goal is to understand duration patterns and identify short action movies fro
   short_movie_count = <count_of_short_action_movies>
 
 ## 📊 Tools and Libraries Used
--Python 3
--Pandas
--Matplotlib
+- Python 3
+- Pandas
+- Matplotlib
